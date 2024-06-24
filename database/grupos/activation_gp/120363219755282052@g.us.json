@@ -1,0 +1,89 @@
+[
+  {
+    "name": "[ 𝐂𝐇𝐀𝐓 ] 𝐘𝐔𝐑𝐈 𝐌𝐎𝐃𝐙 👥",
+    "groupId": "120363219755282052@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [
+      "5524981220506@s.whatsapp.net",
+      "",
+      "553384635538@s.whatsapp.net",
+      "558381877756@s.whatsapp.net",
+      "559881392359@s.whatsapp.net",
+      "5511952163485@s.whatsapp.net",
+      "554797257391@s.whatsapp.net",
+      "558598651087@s.whatsapp.net",
+      "554797257391@s.whatsapp.net",
+      "559291191525@s.whatsapp.net"
+    ],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "#numerodele# seja bem vindo (a) caso queira consultar o menu ( menu. )",
+        "legendasaiu": "#numerodele# flw mano.."
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "#numerodele# seja bem vindo (a) 👍🏻",
+        "legendasaiu": "@#numerodele#, adeus man..."
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]
